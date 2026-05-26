@@ -1,0 +1,1 @@
+export default { content: ["./index.html","./src/**/*.{js,jsx}"], theme: { extend: { fontFamily: { mono: ['JetBrains Mono','monospace'], sans: ['Syne','sans-serif'] }, colors: { cyber: { bg:'#0A0E17', surface:'#0F1623', card:'#141C2E', border:'#1E2D47', accent:'#00D4FF', green:'#00FF88', text:'#E2E8F7', muted:'#5A6A8A' } } } }, plugins: [] }
